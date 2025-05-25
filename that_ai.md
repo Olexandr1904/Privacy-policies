@@ -1,6 +1,6 @@
-Privacy Policy for That Ai
+Privacy Policy for That AI
 
-That Ai values your privacy. This Privacy Policy explains how we collect, use, and protect your data.
+That AI values your privacy. This Privacy Policy explains how we collect, use, and protect your data.
 
 1. Information We Collect
 We do not collect any personal information.
@@ -17,10 +17,10 @@ We may use a third-party AI provider (e.g., OpenAI) to process your question. Th
 We implement basic measures to protect your data during transmission. However, no system is 100% secure.
 
 5. Children’s Privacy
-That Ai is not intended for use by children under 13. We do not knowingly collect personal information from children.
+That AI is not intended for use by children under 13. We do not knowingly collect personal information from children.
 
 6. Changes to This Policy
-We may update this policy as needed. Changes will be posted in the app or on our website.
+We may be able to update this policy as needed. Changes will be posted in the app or on our website.
 
 7. Contact
 If you have questions about this Privacy Policy, contact us 
